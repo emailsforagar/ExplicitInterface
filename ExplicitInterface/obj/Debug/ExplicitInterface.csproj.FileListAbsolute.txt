@@ -1,0 +1,7 @@
+D:\personal\prac\ExplicitInterface\ExplicitInterface\bin\Debug\ExplicitInterface.exe.config
+D:\personal\prac\ExplicitInterface\ExplicitInterface\bin\Debug\ExplicitInterface.exe
+D:\personal\prac\ExplicitInterface\ExplicitInterface\bin\Debug\ExplicitInterface.pdb
+D:\personal\prac\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.csprojAssemblyReference.cache
+D:\personal\prac\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.csproj.CoreCompileInputs.cache
+D:\personal\prac\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.exe
+D:\personal\prac\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.pdb
